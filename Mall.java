@@ -129,7 +129,7 @@ public class Mall {
         inventory.addProduct(new Product("BED SHEET", 74.24));
 
         while (true) {
-            System.out.println("\n-------- MALL MANAGEMENT SYSTEM (Amit Kumar) -------\n");
+            System.out.println("\n-------- MALL MANAGEMENT SYSTEM (Avinash Kumar Singh) -------\n");
             System.out.println("1. Show all products");
             System.out.println("2. Make a bill");
             System.out.println("3. Exit");
